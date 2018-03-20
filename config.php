@@ -1,8 +1,0 @@
-<?php
-$databaseHost = 'localhost';
-$databaseName = 'crud';
-$databaseUsername = 'root';
-$databasePassword = '';
-
-$mysqli = mysqli_connect($darabaseHost, $databaseUsername, $databasePassword, $databaseName);
-?>
